@@ -40,7 +40,17 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
+favicon.ico
 
 # System Files
 .DS_Store
 Thumbs.db
+
+# tests
+*.spec.ts
+
+# configuratoin files
+*.conf.ts
+
+assets/
+environments/
